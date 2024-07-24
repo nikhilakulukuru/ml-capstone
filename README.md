@@ -22,7 +22,7 @@ For future scope, this project opens up several avenues for further research and
 
 [1] Vamvourellis, Dimitrios, et al. ”Company Similarity using Large Language Models.” arXiv preprint arXiv:2308.08031, 2023
 
-[2] https://simonwillison.net/2023/Aug/27/wordcamp-llms/retrieval-augmented-generation [3] https://sec-api.io/docs/sec-filings-item-extraction-api/python-example
+[2] https://simonwillison.net/2023/Aug/27/wordcamp-llms/retrieval-augmented-generation 
 
 [3] https://sec-api.io/docs/sec-filings-item-extraction-api/python-example
 
